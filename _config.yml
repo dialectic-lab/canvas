@@ -6,7 +6,7 @@ exclude:             ['.obsidian']
 
 github:              [metadata]
 
-baseurl:             ''
+baseurl:             'https://dialectic-lab.github.io/canvas/'
 
 layouts_dir:         .layouts
 includes_dir:        .layouts
