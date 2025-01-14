@@ -95,7 +95,7 @@ body {
 }
 #canvas-edges,
 #canvas-nodes {
-  opacity: 0;
+  opacity: 100;
   transform: translate(var(--pan-x), var(--pan-y)) scale(var(--scale));
   transform-origin: left top;
 }
