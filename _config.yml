@@ -1,12 +1,12 @@
 name:                'JSON Canvas'
 title:               'JSON Canvas'
-url:                 'https://dialectic-lab.github.io/canvas/'
+url:                 'https://dialectic-lab.github.io/'
 description:         'An open file format for infinite canvas data.'
 exclude:             ['.obsidian']
 
 github:              [metadata]
 
-baseurl:             'https://dialectic-lab.github.io/canvas/'
+baseurl:             ''
 
 layouts_dir:         .layouts
 includes_dir:        .layouts
